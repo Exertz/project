@@ -16,9 +16,9 @@
             <img src="./images/Logo.png" alt="" width="100px"/>
         </div>
         <ul class="links">
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="#">About</a></li>
-            <li><a href="">Services</a></li>
+            <li><a href="services.php">Services</a></li>
             <li><a href="#">Contact</a></li>
         </ul>
         <a href="#" class="action_btn">Book now</a>
