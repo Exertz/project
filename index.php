@@ -70,7 +70,9 @@
         <h3>Corporate Events</h3>
         <p>seminars,  product launches, team building activities, corporate parties </p>
         <a href="#" class="btn">Book now</a>
-      </div>
+        <div class="icons">
+          <i class="fas fa-heart"></i>
+        </div>
     </div>
     <div class="card">
       <div class="img-box">
@@ -79,8 +81,11 @@
       <div class="content">
         <h3>Weddings</h3>
         <p>engagement parties, ceremonies, bridal shower,  receptions</p>
-        <a href="#" class="btn">Book now</a>
-      </div>
+        <div class="icons"> 
+          <i class="fas fa-heart"></i>
+        </div>
+      <a href="#" class="btn">Book now</a>
+    </div>
     </div>
     <div class="card">
       <div class="img-box">
@@ -89,8 +94,10 @@
       <div class="content">
         <h3>Social Events</h3>
         <p>birthday,  anniversaries, baby showers, graduations </p>
-        <a href="#" class="btn">Book now</a>
-      </div>
+        <div class="icons"> 
+          <i class="fas fa-heart"></i>
+        </div>
+      <a href="#" class="btn">Book now</a>
     </div>
     <div class="card">
       <div class="img-box">
@@ -99,8 +106,10 @@
       <div class="content">
         <h3>Portrait</h3>
         <p>family portraits,  senior portraits, lifestyle photography</p>
-        <a href="#" class="btn">Book now</a>
-      </div>
+        <div class="icons"> 
+          <i class="fas fa-heart"></i>
+        </div>
+      <a href="#" class="btn">Book now</a>
     </div>
     <div class="card">
       <div class="img-box">
@@ -109,11 +118,14 @@
       <div class="content">
         <h3>Commercial Shoots</h3>
         <p>advertising campaigns, fashion shoot</p>
-        <a href="#" class="btn">Book now</a>
-      </div>
+        <div class="icons"> 
+          <i class="fas fa-heart"></i>
+        </div>
+      <a href="#" class="btn">Book now</a>
     </div>
     </div>
-    
+    </div>
+    <script src="https://kit.fontawesome.com/your-font-awesome-kit.js" crossorigin="anonymous"></script>
     <!-- container-3 -->
     <div class="container-3"></div>
 
