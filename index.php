@@ -61,7 +61,8 @@
             Our dedicated photo and video booking services are designed to capture the essence of your most treasured events. 
             Whether it's a dream wedding, a memorable celebration, or an intimate gathering, we're here to turn your vision into stunning reality. 
             Cherish your priceless moments with us.</h2>
-            <div class="container-2">
+    <div class="container-2">
+
     <div class="card">
       <div class="img-box">
         <img src="./images/Corporate.png">
@@ -74,6 +75,7 @@
           <i class="fas fa-heart"></i>
         </div>
     </div>
+
     <div class="card">
       <div class="img-box">
         <img src="./images/Weddings.png">
@@ -87,6 +89,7 @@
       <a href="#" class="btn">Book now</a>
     </div>
     </div>
+
     <div class="card">
       <div class="img-box">
         <img src="./images/Social.png">
@@ -99,6 +102,7 @@
         </div>
       <a href="#" class="btn">Book now</a>
     </div>
+
     <div class="card">
       <div class="img-box">
         <img src="./images/Portrait.png">
@@ -111,6 +115,7 @@
         </div>
       <a href="#" class="btn">Book now</a>
     </div>
+
     <div class="card">
       <div class="img-box">
         <img src="./images/Commercial.png">
