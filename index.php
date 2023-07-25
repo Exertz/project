@@ -61,8 +61,8 @@
             Our dedicated photo and video booking services are designed to capture the essence of your most treasured events. 
             Whether it's a dream wedding, a memorable celebration, or an intimate gathering, we're here to turn your vision into stunning reality. 
             Cherish your priceless moments with us.</h2>
-    <div class="container-2">
 
+    <div class="container-2">
     <div class="card">
       <div class="img-box">
         <img src="./images/Corporate.png">
@@ -131,9 +131,7 @@
     </div>
     </div>
     <script src="https://kit.fontawesome.com/your-font-awesome-kit.js" crossorigin="anonymous"></script>
-    <!-- container-3 -->
-    <div class="container-3"></div>
-
+    
     <!-- <img class="image-wave" src="./images/wave.png" alt="" height="220px" width="100%"> -->
 </body>
 
