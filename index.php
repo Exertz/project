@@ -38,7 +38,7 @@
                 REGISTER Now!
                 to Book Unforgettable
                 Photo and Video Experiences</p>
-            <a href="#" class="register_btn">Register</a>
+            <a href="registerpage.php" class="register_btn">Register</a>
         </div>
         <div class="w-100">
             <h1>PUT CALENDER HERE</h1>
@@ -57,8 +57,63 @@
     <!-- container-2 -->
     <div class="container-2">
         <h1 class="text-center" style="color:white;">Capture Every Moment, Just the Way You Dreamed</h1>
+        <h2 class="body-message">At Norlitz Bato Films, we understand the importance of life's special occasions. 
+            Our dedicated photo and video booking services are designed to capture the essence of your most treasured events. 
+            Whether it's a dream wedding, a memorable celebration, or an intimate gathering, we're here to turn your vision into stunning reality. 
+            Cherish your priceless moments with us.</h2>
+            <div class="container-2">
+    <div class="card">
+      <div class="img-box">
+        <img src="./images/Corporate.png">
+      </div>
+      <div class="content">
+        <h3>Corporate Events</h3>
+        <p>seminars,  product launches, team building activities, corporate parties </p>
+        <a href="#" class="btn">Book now</a>
+      </div>
     </div>
-
+    <div class="card">
+      <div class="img-box">
+        <img src="./images/Weddings.png">
+      </div>
+      <div class="content">
+        <h3>Weddings</h3>
+        <p>engagement parties, ceremonies, bridal shower,  receptions</p>
+        <a href="#" class="btn">Book now</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="img-box">
+        <img src="./images/Social.png">
+      </div>
+      <div class="content">
+        <h3>Social Events</h3>
+        <p>birthday,  anniversaries, baby showers, graduations </p>
+        <a href="#" class="btn">Book now</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="img-box">
+        <img src="./images/Portrait.png">
+      </div>
+      <div class="content">
+        <h3>Portrait</h3>
+        <p>family portraits,  senior portraits, lifestyle photography</p>
+        <a href="#" class="btn">Book now</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="img-box">
+        <img src="./images/Commercial.png">
+      </div>
+      <div class="content">
+        <h3>Commercial Shoots</h3>
+        <p>advertising campaigns, fashion shoot</p>
+        <a href="#" class="btn">Book now</a>
+      </div>
+    </div>
+    </div>
+    
     <!-- container-3 -->
     <div class="container-3"></div>
 
